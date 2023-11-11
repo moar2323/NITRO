@@ -1,6 +1,4 @@
-
-1 after it exract (convert to normal folder)
-
+V3 of Nitro Generator
 
 
 
@@ -11,16 +9,28 @@
 
 
 
-
-2 check if you have python
-
+1 After It Exract (Convert To Normal Folder)
 
 
 
 
 
 
-3 open cmd in the folder and do `pip install -r requirements.txt` after this do `python main.py`
+
+
+
+
+
+
+2 Check If You Have Python
+
+
+
+
+
+
+
+3 Open Cmd In The Folder And Do `pip install -r requirements.txt` After This Do `python main.py`
 
 
 
