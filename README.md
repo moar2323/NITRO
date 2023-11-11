@@ -20,8 +20,7 @@
 
 
 
-3 open cmd in the folder and do pip install -r requirements.txt after this do python main.py
-
+3 open cmd in the folder and do `pip install -r requirements.txt` after this do `python main.py`
 
 
 
